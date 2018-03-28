@@ -286,3 +286,8 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/siteSettings.config
+/vendor
+/composer.lock
+/api/1/web.config
+/phpinfo.txt
