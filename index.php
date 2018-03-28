@@ -152,7 +152,6 @@
         </div>
       </div>
     </div>
-		<!-- 2017-<?php echo(date('Y')); ?>, <?php echo($SiteSettings[SettingsStrings::Company]); ?>; <?php echo($SiteSettings[SettingsStrings::SiteTitle]); ?> v<?php echo($SiteSettings['Version']); ?> -->
 
     <!--preloader-->
     <div id="spinner-wrapper">
